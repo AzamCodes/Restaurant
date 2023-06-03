@@ -1,1 +1,1 @@
-https://github.com/AzamCodes/Restaurant/blob/main/index.html
+https://github.com/AzamCodes/Restaurant/index.html
